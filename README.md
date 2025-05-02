@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="250"/>
+  <img src="logo novo Novigo-it.jpg" width="250"/>
 </p>
 
 # Teste Técnico - QA Pleno/Sênior - Seguradora VidaMais
